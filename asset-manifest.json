@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kittensgardens/static/css/main.f251e27e.chunk.css",
+    "main.js": "/kittensgardens/static/js/main.5a87c2c6.chunk.js",
+    "main.js.map": "/kittensgardens/static/js/main.5a87c2c6.chunk.js.map",
+    "runtime~main.js": "/kittensgardens/static/js/runtime~main.57a89c11.js",
+    "runtime~main.js.map": "/kittensgardens/static/js/runtime~main.57a89c11.js.map",
+    "static/js/2.b67fbdca.chunk.js": "/kittensgardens/static/js/2.b67fbdca.chunk.js",
+    "static/js/2.b67fbdca.chunk.js.map": "/kittensgardens/static/js/2.b67fbdca.chunk.js.map",
+    "index.html": "/kittensgardens/index.html",
+    "precache-manifest.3009c13e8083ebb19201ede066252b7b.js": "/kittensgardens/precache-manifest.3009c13e8083ebb19201ede066252b7b.js",
+    "service-worker.js": "/kittensgardens/service-worker.js",
+    "static/css/main.f251e27e.chunk.css.map": "/kittensgardens/static/css/main.f251e27e.chunk.css.map"
+  }
+}
